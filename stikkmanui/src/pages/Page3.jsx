@@ -40,7 +40,7 @@ const Page3 = ({ currentPage }) => {
       </motion.div>
 
       <section className="w-full h-[80%] z-10 flex justify-end items-center flex-col mt-3">
-       <div className="h-[50%]"><img className="h-full" src={text} alt="" /></div>
+       <div className="h-[50%] ml-3"><img className="h-full" src={text} alt="" /></div>
       </section>
     </div>
   );
